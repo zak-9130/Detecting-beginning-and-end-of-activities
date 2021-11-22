@@ -14,7 +14,7 @@ When you use notebook
 
 	- test1=IMU(dataset)
 
-   the repository link is  "http://ec2_ip:80"
+    the repository link is  "https://github.com/zak-9130/Detecting-beginning-and-end-of-activities.git"
 
 After clone the github, you have to write in your terminal
 	- pip freeze > requirements.txt

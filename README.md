@@ -9,8 +9,10 @@ Run the following commands if you use script :
 When you use script, use csv file:
 
 	 - test1=IMU(path+filename)
+	 
 path = durectory of your file
-filename= name of your filewith the extension (example :"filename.csv"
+
+filename= name of your filewith the extension (example :"filename.csv").
   
 When you use notebook, use dataframe  
 

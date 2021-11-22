@@ -7,6 +7,7 @@ Lancer les commande suivantes:
 	- import the function script_IMU and tools
   
 When you use script:
+
 	- test1=IMU(path+filename)
   
 When you use notebook  

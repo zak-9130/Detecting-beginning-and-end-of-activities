@@ -24,3 +24,6 @@ After clone the github, you have to write in your terminal
 
 
 #### TO DO: IMPROVE THE SCRIPTS AND THE EFFICIENT AND ACCURACY OF ALGORITHM
+   
+Link of the Git : https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt 
+

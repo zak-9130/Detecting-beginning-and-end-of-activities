@@ -21,7 +21,7 @@ Link of the Git : https://github.com/zak-9130/Detecting-beginning-and-end-of-act
 
 After clone the github, you have to write in your terminal
 
-	- pip freeze > requirements.txt
+	 pip freeze > requirements.txt
 
 
 #### TO DO: IMPROVE THE SCRIPTS AND THE EFFICIENT AND ACCURACY OF ALGORITHM

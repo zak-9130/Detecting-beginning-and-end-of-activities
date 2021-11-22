@@ -1,8 +1,8 @@
 # Detecting-beginning-and-end-of-activities
 This is a problem challenge about signal processing
 
-## Démarrage du service
-Lancer les commande suivantes:
+## Beginning 
+Run the following commands:
 
 	 - import the function script_IMU and tools
   

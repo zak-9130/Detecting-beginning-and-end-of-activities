@@ -2,13 +2,15 @@
 This is a problem challenge about signal processing
 
 ## Beginning 
-Run the following commands:
+Run the following commands if you use script :
 
-	 - import the function script_IMU and tools
-  
-When you use script, use csv file
+	 - import the function "script_IMU and tools"
+    
+When you use script, use csv file:
 
 	 - test1=IMU(path+filename)
+path = durectory of your file
+filename= name of your filewith the extension (example :"filename.csv"
   
 When you use notebook, use dataframe  
 

@@ -14,7 +14,7 @@ When you use script, use csv file:
 
 - filename= name of your filewith the extension (example :"filename.csv").
   
-When you use notebook, use dataframe  
+When you use notebook, use dataframe :
 
 	 test1=IMU(dataset)
 

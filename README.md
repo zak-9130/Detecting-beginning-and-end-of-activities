@@ -4,15 +4,15 @@ This is a problem challenge about signal processing
 ## Démarrage du service
 Lancer les commande suivantes:
 
-	- import the function script_IMU and tools
+	 - import the function script_IMU and tools
   
-When you use script:
+When you use script, use csv file
 
-	- test1=IMU(path+filename)
+	 - test1=IMU(path+filename)
   
-When you use notebook  
+When you use notebook, use dataframe  
 
-	- test1=IMU(dataset)
+	 test1=IMU(dataset)
 
 the repository link is  :
 
